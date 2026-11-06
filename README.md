@@ -1,16 +1,13 @@
-# Salom, men Asadulloh!
+# Salom, men Asadulloh! 👋
 
-### Men haqimda:
-- Kasbim: Veb-dasturchi (Web Developer)
-- Hudud: Xorazm, Urganch
-- Hozirda yangi texnologiyalarni o’rganmoqdaman va loyihalar ustida ishlayapman
+### 👨‍💻 Men haqimda:
+- 🚀 Kasbim: Veb-dasturchi (Web Developer)
+- 📍 Hudud: Xorazm, Urganch
+- 📚 Hozirda yangi dasturlash tillarini o’rganmoqdaman
 
-### Men foydalanadigan texnologiyalar:
-<p align=“left”>
-<img src=“https://skillicons.dev” />
-</p>
+### 🛠 Men foydalanadigan texnologiyalar:
+- Frontend: HTML5, CSS3, JavaScript, Bootstrap
+- Dasturlar: VS Code, Git, GitHub
 
-### GitHub Statistika:
-<p align=“left”>
-<img src=“https://vercel.app” alt=“GitHub Stats” />
-</p>
+—
+*Mening GitHub profilimga xush kelibsiz!*
