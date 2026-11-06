@@ -11,3 +11,17 @@
 
 —
 *Mening GitHub profilimga xush kelibsiz!*
+
+
+### 🌐 Aloqa uchun nishonlar:
+<p align=“left”>
+<img src=“https://shields.io” />
+<img src=“https://shields.io” />
+</p>
+
+### 🚀 Men o’rganayotgan texnologiyalar:
+<p align=“left”>
+<img src=“https://shields.io” />
+<img src=“https://shields.io” />
+<img src=“https://shields.io” />
+</p>
