@@ -12,5 +12,5 @@
 
 ### GitHub Statistika:
 <p align=“left”>
-<img src=“https://vercel.app” alt=“Asadulloh GitHub Stats” height=“160” />
+<img src=“https://vercel.app” alt=“GitHub Stats” />
 </p>
