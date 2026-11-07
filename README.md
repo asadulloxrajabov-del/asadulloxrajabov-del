@@ -1,4 +1,8 @@
-# Salom, men Asadulloh! 👋
+print("    *      ")
+print("   ***     ")
+print("  *****    ")
+print(" *******   ")
+print("    *      ")# Salom, men Asadulloh! 👋
 
 ### 👨‍💻 Men haqimda:
 - 🚀 Kasbim: Veb-dasturchi (Web Developer)
