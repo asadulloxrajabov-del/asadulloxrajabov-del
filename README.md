@@ -1,8 +1,4 @@
-print("    *      ")
-print("   ***     ")
-print("  *****    ")
-print(" *******   ")
-print("    *      ")# Salom, men Asadulloh! 👋
+# Salom, men Asadulloh! 👋
 
 ### 👨‍💻 Men haqimda:
 - 🚀 Kasbim: Veb-dasturchi (Web Developer)
