@@ -7,7 +7,7 @@
 
 ### 🛠 Men foydalanadigan texnologiyalar:
 - Frontend: HTML5, CSS3, JavaScript, Bootstrap
-- Dasturlar: VS Code, Git, GitHub
+- Dasturlar: Git, GitHub
 
 —
 *Mening GitHub profilimga xush kelibsiz!*
